@@ -2,13 +2,9 @@
 This is the default Django file structure
 
 
-## Development of dynamic Web Application and CMS using Python, Django framework, Bootstrap framework and MySQL
-
-## Objective:
-Develop a Dynamic Web Application using Django and Bootstrap Framework. Through CMS contents will manage.
 
 ## Make directory using command
-$ mkdir aiihph
+$ mkdir FILE_NAME
 
 ## Install virtualenv inside vmspm directory
 $ pip install virtualenv
